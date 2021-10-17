@@ -86,8 +86,6 @@ Select your playlist to add videos ,if there is a - button near playlist click t
 <img src="step7.png"></img>
 
 
-<br><br>
-
-Share to all others and if can Improve the code message to <h1><a href="https://www.twitter.com/im8055">im8055</a></h1> 
+<br><br> 
 
 
